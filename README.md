@@ -172,9 +172,9 @@ After running the gunicorn command open your browser at http://127.0.0.1/5000 to
 <!-- CONTACT -->
 ## Contact
 
-Rene Patrick Muyizere - [@muyizere-rene-patrick-858035179]([https://twitter.com/your_username](https://www.linkedin.com/in/muyizere-rene-patrick-858035179/)) - renepatrick978@gmail.com
+Rene Patrick Muyizere - [@Linkedin](https://www.linkedin.com/in/muyizere-rene-patrick-858035179/) - renepatrick978@gmail.com
 
-Project Link: [https://github.com/MRPatrick8/ReneP-chatbot-huzalabs.git](https://github.com/MRPatrick8/ReneP-chatbot-huzalabs.git)
+Project Link: [Github Repo](https://github.com/MRPatrick8/ReneP-chatbot-huzalabs.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
